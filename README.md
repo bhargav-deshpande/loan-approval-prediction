@@ -80,10 +80,6 @@ The application then predicts whether the loan is:
 
 **Loan Approved** or **Loan Rejected**
 
-## 📸 Application Screenshot
-
-![Streamlit Application](screenshot.png)
-
 ## 🛠️ Technologies Used
 
 * Python
